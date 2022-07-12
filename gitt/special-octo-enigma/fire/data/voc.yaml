@@ -1,0 +1,5 @@
+train: E:\studyhard\homework\inside\fire\data\traindata\
+val: E:\studyhard\homework\inside\fire\data\valdata\
+nc: 1
+names:  ['fire']
+
